@@ -18,4 +18,6 @@ Je suis étudiant en classe prépa scientifique (CPGE PC) et ce repo contient le
 
 Le thème des TIPE pour l'année 2019-2020 est **Océan**.
 
-Contact via messagerie Github uniquement
+Contact via messagerie Github uniquement.
+
+![Creative Commons License BY NC 4.0](https://i.creativecommons.org/l/by-nc/4.0/80x15.png)
