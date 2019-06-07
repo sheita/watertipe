@@ -8,7 +8,7 @@ def sep():
 """
 # Données en entrée
 
-Les ions initialement présents en solutions sont dans la liste Ions et leurs concentrations respectives sont dans la liste Concentrations.
+Les ions initialement présents en solution sont dans la liste Ions et leurs concentrations respectives sont dans la liste Concentrations.
 
 Exemple: L'ion chlorure correspond à l'indice 1, son symbole est accessible avec Ions[1] et sa concentration avec Concentrations[1].
 
